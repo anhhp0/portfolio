@@ -10,6 +10,7 @@ import Footer from "../../components/footer/footer.component";
 import { repos } from "../../editable-stuff/config";
 
 import "./homepage.styles.css";
+import ScrollToTop from "react-scroll-to-top";
 
 const Home = (props) => {
   return (
@@ -29,6 +30,7 @@ const Home = (props) => {
         <Skills />
         <Contact />
       </main>
+      <ScrollToTop smooth />
       <Footer />
     </div>
   );
