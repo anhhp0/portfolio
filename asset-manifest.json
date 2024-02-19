@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7cd5112b.css",
+    "main.js": "/portfolio/static/js/main.05650c45.js",
+    "static/media/profile-pic.png": "/portfolio/static/media/profile-pic.60051d36d6adf240c3a6.png",
+    "static/media/Resume_HaPhucAnh.pdf": "/portfolio/static/media/Resume_HaPhucAnh.8e67064b78da90e7faa1.pdf",
+    "static/media/mf-avatar.svg": "/portfolio/static/media/mf-avatar.7b735e86b418292c156bc9a26437d951.svg",
+    "index.html": "/portfolio/index.html",
+    "main.7cd5112b.css.map": "/portfolio/static/css/main.7cd5112b.css.map",
+    "main.05650c45.js.map": "/portfolio/static/js/main.05650c45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cd5112b.css",
+    "static/js/main.05650c45.js"
+  ]
+}
