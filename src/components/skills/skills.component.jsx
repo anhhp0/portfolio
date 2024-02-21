@@ -35,7 +35,18 @@ const Skills = (props) => {
               <Icon icon="teenyicons:nextjs-outline" className="skills__icon" />
               <span className="skills__name">NEXTJS</span>
             </div>
-            <div className="skills__bar skills__redux"></div>
+          </div>
+          <div className="skills__data">
+            <div className="skills__names">
+              <Icon icon="bxl:redux" className="skills__icon" />
+              <span className="skills__name">REDUX</span>
+            </div>
+          </div>
+          <div className="skills__data">
+            <div className="skills__names">
+              <Icon icon="teenyicons:html5-outline" className="skills__icon" />
+              <span className="skills__name">HTML</span>
+            </div>
           </div>
           <div className="skills__data">
             <div className="skills__names">
@@ -65,21 +76,24 @@ const Skills = (props) => {
               <i className="bx bx-data skills__icon"></i>
               <span className="skills__name">MYSQL</span>
             </div>
-            <div className="skills__bar skills__sql"></div>
           </div>
           <div className="skills__data">
             <div className="skills__names">
               <i className="bx bx-data skills__icon"></i>
               <span className="skills__name">MONGODB</span>
             </div>
-            <div className="skills__bar skills__sql"></div>
           </div>
           <div className="skills__data">
             <div className="skills__names">
               <i className="bx bxl-nodejs skills__icon"></i>
               <span className="skills__name">NODEJS</span>
             </div>
-            <div className="skills__bar skills__nodejs"></div>
+          </div>
+          <div className="skills__data">
+            <div className="skills__names">
+              <i className="bx bxl-nodejs skills__icon"></i>
+              <span className="skills__name">EXPRESSJS</span>
+            </div>
           </div>
         </div>
         <div className="skills__others">
@@ -96,7 +110,6 @@ const Skills = (props) => {
             {/* <div>
                             <span className="skills__percentage">75%</span>
                         </div> */}
-            <div className="skills__bar skills__github"></div>
           </div>
           <div className="skills__data">
             <div className="skills__names">
