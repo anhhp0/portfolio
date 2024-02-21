@@ -2,7 +2,7 @@
   "name": "HaPhucAnh-portfolio",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://anhhp.io.vn/portfolio",
+  "homepage": "https://anhhp0.github.io/portfolio/",
   "dependencies": {
     "@iconify/react": "^4.1.1",
     "@testing-library/jest-dom": "^5.11.4",
