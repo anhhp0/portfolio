@@ -63,9 +63,9 @@ const Contact = props => {
                 <h3 className="contact__title">E-mail</h3>
                 <span
                   className="contact__subtitle"
-                  href="mailto:phucanh.dev@gmail.com"
+                  href="mailto:phucanh@anhhp.io.vn"
                 >
-                  phucanh.dev@gmail.com
+                  phucanh@anhhp.io.vn
                 </span>
               </div>
             </div>
