@@ -69,7 +69,7 @@
     background-color: var(--first-color);
 }
   
-/*=== Show menu ===*/
+/*=== Show menu mobile ===*/
 .show{
     right: 0;
 }

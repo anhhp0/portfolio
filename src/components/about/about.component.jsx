@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 
 import sr from "../../utils/scrollReveal";
-import MyResume from "../../assets/resume/Resume_HaPhucAnh.pdf";
+// import MyResume from "../../assets/resume/Resume_HaPhucAnh.pdf";
 import picture from "../../assets/img/profile-pic.png";
 import "./about.styles.css";
 
@@ -28,9 +28,9 @@ const About = (props) => {
           </p>
           <div>
             {/* <input type="button" value="Download Resume" className="about__button button" /> */}
-            <a href={MyResume} download className="about__button button">
+            {/* <a href={MyResume} download className="about__button button">
               Download Resume
-            </a>
+            </a> */}
           </div>
         </div>
         <div className="about__img">
