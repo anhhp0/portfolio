@@ -70,7 +70,7 @@ const Contact = props => {
               </div>
             </div>
           </div>
-          <form action="" className="contact__form">
+          {/* <form action="" className="contact__form">
             <input
               type="text"
               placeholder="Name"
@@ -109,7 +109,7 @@ const Contact = props => {
                 Send
               </a>
             </div>
-          </form>
+          </form> */}
         </div>
       </section>
     );
