@@ -95,6 +95,12 @@ const Skills = (props) => {
               <span className="skills__name">EXPRESSJS</span>
             </div>
           </div>
+          <div className="skills__data">
+            <div className="skills__names">
+              <i className="bx bxl-nodejs skills__icon"></i>
+              <span className="skills__name">PYTHON</span>
+            </div>
+          </div>
         </div>
         <div className="skills__others">
           <h2 className="skills__subtitle">Other</h2>
